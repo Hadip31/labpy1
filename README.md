@@ -5,61 +5,58 @@ Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 bu
 Dengan Script sebagai berikut :
 
 **print("program untuk menentukan bilangan terbesar dan terkecil")**
-
 **def pengulangan():**
 
 **print("masukkan 3 buah bilangan yang di inginkan")**
 
-	**a = int(input("Masukan Bilangan Ke 1 = "))**
+**a = int(input("Masukan Bilangan Ke 1 = "))**
 
-	**b = int(input("Masukan Bilangan Ke 2 = "))**
+**b = int(input("Masukan Bilangan Ke 2 = "))**
 
-	**c = int(input("Masukan Bilangan Ke  3 = "))**
+**c = int(input("Masukan Bilangan Ke  3 = "))**
 
-	**if a>b and a>c:**
+	if a>b and a>c:
 
-		**if b>c:**
+	if b>c:
 
-			**print(a, "terbesar dan", c, "terkecil")**
+	print(a, "terbesar dan", c, "terkecil")
 
-		**else:**
+**else:**
 
-			**print(a, "terbesar dan", b, "terkecil")**
+**print(a, "terbesar dan", b, "terkecil")**
 
-	**elif b>a and b>c:**
+**elif b>a and b>c:**
 
-		**if a>c:**
+**if a>c:**
 
-			**print(b, "terbesar dan", c, "terkecil")**
+**print(b, "terbesar dan", c, "terkecil")**
 
-		**else:**
+**else:**
 
-			**print(b, "terbesar dan", a, "terkecil")**
+**print(b, "terbesar dan", a, "terkecil")**
 
-		**else:**
+**else:**
 
-		**if a>b:**
+**if a>b:**
 
-			**print(c, "terbesar dan", b, "terkecil")**
+**print(c, "terbesar dan", b, "terkecil")**
 
-		**else:**
+**else:**
 
-			**print(c, "terbesar dan", a, "terkecil")**print("")
+**print(c, "terbesar dan", a, "terkecil")**print("")
 
-	**print("ingin mencoba lagi (yes/no)?")**
+**print("ingin mencoba lagi (yes/no)?")**
 
-	**x = input()**
+**x = input()**
 
-	**if x == "yes":**
+**if x == "yes":**
 
-		**return pengulangan()**
+**return pengulangan()**
 
-	**if x == "tidak":**
+**if x == "tidak":**
 
-		**print("terimakasih telah menggunakan program ini.")**
-
-
-**pengulangan()**
+	print("terimakasih telah menggunakan program ini.")
+	pengulangan()
 
  Setelah program tersebut di eksekusi maka akan menghasilkan Output pada
 gambar berikut : 
