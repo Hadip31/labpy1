@@ -1,7 +1,7 @@
 # labpy1
-##Praktikum1
+#Praktikum1
 
-**Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 buah bilangan yang di inputkan dari kyboard**
+Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 buah bilangan yang di inputkan dari kyboard
 Dengan Script sebagai berikut :
 
 **print("program untuk menentukan bilangan terbesar dan terkecil")**
@@ -10,7 +10,6 @@ Dengan Script sebagai berikut :
 	**a = int(input("Masukan Bilangan Ke 1 = "))**
 	**b = int(input("Masukan Bilangan Ke 2 = "))**
 	**c = int(input("Masukan Bilangan Ke  3 = "))**
-
 	**if a>b and a>c:**
 		**if b>c:**
 			**print(a, "terbesar dan", c, "terkecil")**
@@ -34,6 +33,7 @@ Dengan Script sebagai berikut :
 		**print("terimakasih telah menggunakan program ini.")**
 
 **pengulangan()**
+
  Setelah program tersebut di eksekusi maka akan menghasilkan Output pada
 gambar berikut : 
 ![output](https://raw.githubusercontent.com/Hadip31/labpy1/master/output.PNG)
