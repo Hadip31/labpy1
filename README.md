@@ -43,6 +43,7 @@ Dengan Script sebagai berikut :**
 ![output](https://raw.githubusercontent.com/Hadip31/labpy1/master/output.PNG)
 
 **KETERANGAN**
+
 **pada Fungsi Python digunakan Fungsi** Def, **lalu diikuti dengan fungsinya. Mis:** Def pengulangan()
 Integer **Input pada a,b, dan c digunakan untuk mengambil data bilangan1, bilangan2, dan bilangan3.
 
@@ -58,7 +59,7 @@ Fungsi** Else **digunakan jika kondisi** if **tidak dapat di penuhi.**
 ![4](https://raw.githubusercontent.com/Hadip31/labpy1/master/4.PNG)
 
 x=input() **digunakan untuk menerima panggilan dari user, karena diatasnya terdapat tulisan print("ingin mencoba lagi (ya/tidak)?"). Kita diminta untuk menuliskan ya/tidak sebagai opsi pilihan.
-Lalu save script bahasa pemrograman dengan menekan tombol ctrl+s.
+Lalu save script bahasa pemrograman dengan menekan tombol ctrl+s.**
 
 ![5](https://raw.githubusercontent.com/Hadip31/labpy1/master/5.PNG)
 
