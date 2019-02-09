@@ -1,8 +1,8 @@
 # labpy1
 ## Praktikum1
 
-Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 buah bilangan yang di inputkan dari kyboard
-Dengan Script sebagai berikut :
+**Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 buah bilangan yang di inputkan dari kyboard
+Dengan Script sebagai berikut :**
 
 	print("program untuk menentukan bilangan terbesar dan terkecil")
 	def pengulangan():
@@ -33,7 +33,28 @@ Dengan Script sebagai berikut :
 	print("terimakasih telah menggunakan program ini.")
 	pengulangan()
 
-Setelah program tersebut di eksekusi maka akan menghasilkan Output pada gambar berikut : 
+**Setelah program tersebut di eksekusi maka akan menghasilkan Output pada gambar berikut :** 
 
 ![output](https://raw.githubusercontent.com/Hadip31/labpy1/master/output.PNG)
 
+**KETERANGAN**
+
+**keterangan :**
+
+print("...") ** digunakan untuk menampilkan output teks.**
+
+**pada Fungsi Python digunakan Fungsi** Def, **lalu diikuti dengan fungsinya. Mis:** Def pengulangan()
+
+Integer **Input pada a,b, dan c digunakan untuk mengambil data bilangan1, bilangan2, dan bilangan3.**
+
+**If digunakan untuk menjalankan perintah dalam suatu kondisi. Maka kita tulis :** if a>b and a>c
+
+Elif **digunakan ketika kondisi** if a>b and a>c **tidak tercapai.
+
+Fungsi** Else **digunakan jika kondisi** if **tidak dapat di penuhi.**
+
+x=input() **digunakan untuk menerima panggilan dari user, karena diatasnya terdapat tulisan print("ingin mencoba lagi (ya/tidak)?"). Kita diminta untuk menuliskan ya/tidak sebagai opsi pilihan.
+Lalu save script bahasa pemrograman dengan menekan tombol ctrl+s.
+
+## TERIMA KASIH
+**Hak Cipta @ angga hadi putra**
