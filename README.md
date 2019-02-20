@@ -54,15 +54,13 @@ Dengan Script sebagai berikut :**
 
 Fungsi Print adalah untuk mencetak atau menampilkan suatu objek ke perangkat keluaran (layar) atau ke file teks. 
 
-![2](https://raw.githubusercontent.com/Hadip31/labpy1/master/2.PNG)
-
 **Def**
 
 Def pada python merupakan perintah executable, yang artinya function tidak akan aktif sampai python merunning perintah def tersebut. 
 Statement def di ikuti oleh nama fungsinya. Sebuah fungsi dapat memiliki daftar argumen (parameter) ataupun tidak. 
 Tanda titik dua ( : ) menandakan awal pendefinisian tubuh dari fungsi yang terdiri dari statement-statement. 
 
-![3](https://raw.githubusercontent.com/Hadip31/labpy1/master/3.PNG)
+![2](https://raw.githubusercontent.com/Hadip31/labpy1/master/2.PNG)
 
 **If**
 
@@ -72,14 +70,27 @@ Pernyataan if berisi sebuah ekspresi logika menggunakan data yang telah dibandin
 
 Pada kondisi tertentu kita dapat menggunakan pernyataan If Bersarang, maksudnya adalah kita dapat menuliskan pernyataan if..else didalam pernyataan if..else.
 
-![4](https://raw.githubusercontent.com/Hadip31/labpy1/master/4.PNG)
+![3](https://raw.githubusercontent.com/Hadip31/labpy1/master/3.PNG)
 
 **Else**
 
 Pernyataan else biasanya digabungkan dengan pernyataan if diatas. Pernyataan else dapat berisi satu atau beberapa blok pernyataan (kode) yang mana
  akan dijalankan jika kondisi tersebut salah (atau tidak sesuai dengan syarat yang berlaku). 
 
-![5](https://raw.githubusercontent.com/Hadip31/labpy1/master/5.PNG)
+![4](https://raw.githubusercontent.com/Hadip31/labpy1/master/4.PNG)
+
+**Runn**
+
+Kemudian kita Runn untuk meliat hasil project tersebut
+
+![5](https://raw.githubusercontent.com/Hadip31/labpy1/master/6.png)
+
+**Output**
+
+Berikut hasil screenshot program Latihan1
+
+![output](https://raw.githubusercontent.com/Hadip31/labpy1/master/output.PNG)
+
 
 ## SELESAI
 **Hak Cipta @ angga hadi putra**
