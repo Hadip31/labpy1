@@ -14,8 +14,8 @@ Setelah itu, tulis script pemrograman python seperti gambar dibawah ini:
 
 ![1](https://raw.githubusercontent.com/Hadip31/labpy1/master/1.PNG)
 
-**Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 buah bilangan yang di inputkan dari kyboard
-Dengan Script sebagai berikut :**
+Buat Program sederhana untuk menentukan Bilangan Terbesar dan Terkecil dari 3 buah bilangan yang di inputkan dari kyboard
+Dengan Script sebagai berikut :
 
 	print("program untuk menentukan bilangan terbesar dan terkecil")
 	def pengulangan():
